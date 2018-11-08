@@ -2,10 +2,10 @@
 
 Pre-requisites : 
 
-Install NodeJS
-Install GulpJS
-Install https://www.npmjs.com/package/gulp-run
-Install https://www.npmjs.com/package/minimist
+- Install NodeJS
+- Install GulpJS
+- Install https://www.npmjs.com/package/gulp-run
+- Install https://www.npmjs.com/package/minimist
 
 
 COMMANDS : 
